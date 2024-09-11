@@ -1,0 +1,37 @@
+{
+    "languages": {
+      "English": "en",
+      "Spanish": "es",
+      "French": "fr",
+      "German": "de",
+      "Chinese (Simplified)": "zh-cn",
+      "Chinese (Traditional)": "zh-tw",
+      "Japanese": "ja",
+      "Korean": "ko",
+      "Italian": "it",
+      "Portuguese": "pt",
+      "Russian": "ru",
+      "Arabic": "ar",
+      "Hindi": "hi",
+      "Bengali": "bn",
+      "Turkish": "tr",
+      "Vietnamese": "vi",
+      "Thai": "th",
+      "Greek": "el",
+      "Hebrew": "he",
+      "Polish": "pl",
+      "Danish": "da",
+      "Norwegian": "no",
+      "Swedish": "sv",
+      "Czech": "cs",
+      "Hungarian": "hu",
+      "Romanian": "ro",
+      "Bulgarian": "bg",
+      "Ukrainian": "uk",
+      "Lithuanian": "lt",
+      "Latvian": "lv",
+      "Estonian": "et",
+      "Dutch": "nl"
+    }
+  }
+  
